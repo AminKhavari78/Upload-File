@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    color: rgba(178, 74, 144, 0.86);
+    font-size: 2rem;
+    padding: 15px;
+    border: 1rem solid lightblue;
+    background: white;
+    border-radius: 25px;
+    max-width: 60%;
+    margin: auto;
+}
+
+.header-text{
+    text-align: center;
+    margin: auto;
+}
+
+.upload{
+    margin-top: 1rem;
+    padding: 20px;
+    text-align: center;
+}
+
+.label{
+    color: gray;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.input{
+    padding-top: 0.5rem;
+}
+.btn{
+    color:lightblue;
+}
+
+.footer{
+    padding: 10rem;
+}
+
+ul{
+  list-style: none;
+
+}
+
+.services{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.contact-us{
+    display: inline-block;
+    font-size: 20px;
+}
+
+
